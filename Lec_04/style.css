@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    padding-top: 130px;
+    margin-top: 100px;
+}
+.header1{
+    color: white;
+    text-align: center;
+    border : 2px solid white;
+    border-radius: 50px; 
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Montenegrin Gothic One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.header2{
+    color: white;
+    text-align: center;
+    border : 2px solid rgb(246, 29, 29);
+    border-radius: 90px;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.header3{
+    color: white;
+    text-align: center;
+    border: 2px solid rgb(246, 29, 29);
+    border-radius: 90px;
+    font-size: 30px;
+    font-family: "Bricolage Grotesque", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.btn {
+    /* background-color: rgb(246, 29, 29); */
+    color: rgb(149, 4, 76);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    padding-bottom: 30px;
+    cursor: pointer;
+    align-items: center;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    float: undefined;
+}
